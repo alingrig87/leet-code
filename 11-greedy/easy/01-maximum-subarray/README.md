@@ -134,3 +134,8 @@ Check all subarrays. O(n²) time, O(1) space.
 3. **O(n) time, O(1) space** - very efficient
 4. **Optimal substructure** property enables DP
 5. **Classic algorithm** to know by heart
+6. **Foundation for** many DP and greedy problems
+7. **Can be extended** to 2D (maximum sum rectangle)
+8. **Variations**: Maximum product subarray, circular subarray
+9. **Interview favorite** - appears frequently
+10. **Practice problem** for understanding DP concepts
