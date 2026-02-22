@@ -145,3 +145,8 @@ Sort by start, check overlaps. O(n log n) time, O(1) space.
 3. **O(n log n)** solution
 4. **Simple and efficient**
 5. **Foundation for** interval problems
+6. **Adjacent intervals** (end == start) are OK
+7. **Important interview problem** - tests interval understanding
+8. **Can be extended** to find minimum rooms needed
+9. **Classic problem** - appears in many variations
+10. **Practice problem** for sorting and intervals

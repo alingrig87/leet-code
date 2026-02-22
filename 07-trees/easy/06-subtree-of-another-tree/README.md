@@ -119,3 +119,8 @@ For each node, check if subtree matches. O(n*m) time, O(h) space.
 3. **O(n*m) time** in worst case
 4. **Straightforward** approach
 5. **Foundation for** more complex tree problems
+6. **Early exit** when match found
+7. **DFS traversal** with nested comparison
+8. **Important interview problem** - tests tree manipulation
+9. **Can be optimized** with tree serialization
+10. **Classic problem** - appears in variations

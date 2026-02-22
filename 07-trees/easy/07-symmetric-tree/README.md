@@ -144,3 +144,8 @@ Compare left and right with mirrored logic. O(n) time, O(h) space.
 3. **O(n) time** - visit each node
 4. **Elegant recursive** solution
 5. **Foundation for** more complex tree problems
+6. **Iterative solution** possible with queues
+7. **Important interview problem** - tests tree symmetry understanding
+8. **Can be extended** to check if two trees are mirror images
+9. **Classic problem** - good for understanding tree traversal
+10. **Practice problem** for recursive thinking
