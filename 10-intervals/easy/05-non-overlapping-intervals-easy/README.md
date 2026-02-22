@@ -126,3 +126,7 @@ Build conflict graph, find minimum vertex cover. Much more complex, not needed f
 4. **Adjacent intervals** (end == start) are NOT overlapping
 5. **O(n log n) time** is optimal for comparison-based sorting
 6. **Classic problem** that appears in many variations
+7. **Foundation for** weighted interval scheduling
+8. **Greedy choice** is proven optimal
+9. **Important interview problem** - tests understanding of greedy algorithms
+10. **Can be extended** to multiple variations
